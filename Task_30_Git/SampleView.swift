@@ -10,6 +10,7 @@ import SwiftUI
 struct SampleView: View {
     var body: some View {
         Text("yo yo ")
+        Text("Look at this")
     }
 }
 
